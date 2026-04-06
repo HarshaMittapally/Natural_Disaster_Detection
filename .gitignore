@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pth
+*.csv
+*.png
+*.pdf
+dataset/
+disaster_dataset/
+final_dataset/
