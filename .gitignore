@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 *.pth
 *.csv
-*.png
 *.pdf
 dataset/
 disaster_dataset/
